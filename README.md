@@ -18,6 +18,10 @@
 |**Add Eslint configuration**<br>False|
 |**Main Entity**<br>ZEVENT_CATERINGSet|
 
+npx fiori run --open index.html
+
+git push -u origin
+
 ## z_event_catering_co2
 
 A Fiori application.
